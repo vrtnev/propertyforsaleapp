@@ -25,7 +25,7 @@ SECRET_KEY = 'iw4^qz@doi6$6pmhp=93u-z$q7r+cy2(9sgth6xquq54*h#tn8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [propertyforsaleapp.std-230.ist.mospolytech.ru]
+ALLOWED_HOSTS = ['propertyforsaleapp.std-230.ist.mospolytech.ru']
 
 
 # Application definition
